@@ -1,0 +1,12 @@
+# Limpiar proyecto
+./gradlew clean
+
+# Generar APK Debug
+./gradlew assembleDebug
+
+# Generar APK Release (requiere keystore)
+./gradlew assembleRelease
+
+# Ubicación de los APK generados
+# Debug: app/build/outputs/apk/debug/app-debug.apk
+# Release: app/build/outputs/apk/release/app-release.apk
