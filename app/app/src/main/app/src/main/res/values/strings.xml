@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Reparto App</string>
+    <string name="app_logo">Logo de la aplicación</string>
+    
+    <!-- Main Activity -->
+    <string name="total_paquetes">Total Paquetes</string>
+    <string name="entregados">Entregados</string>
+    <string name="scan_qr">Escanear QR</string>
+    <string name="cargar_manual">Cargar Manual</string>
+    <string name="corregir">Corregir</string>
+    
+    <!-- Scanner Activity -->
+    <string name="escaneando_qr">Escaneando QR...</string>
+    <string name="cancelar">Cancelar</string>
+    
+    <!-- Detalle Zona -->
+    <string name="zona">Zona: %s</string>
+    <string name="resumen_entregas">Entregados: %d/%d</string>
+    <string name="marcar_todos">Marcar Todos</string>
+    <string name="volver">Volver</string>
+    
+    <!-- Carga Manual -->
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="direccion">Dirección</string>
+    <string name="seleccionar_zona">Seleccionar Zona</string>
+    <string name="guardar">Guardar</string>
+    
+    <!-- Corregir -->
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="limpiar_entregados">Limpiar Entregados</string>
+    
+    <!-- Mensajes -->
+    <string name="paquete_registrado">Paquete registrado en %s</string>
+    <string name="qr_invalido">QR inválido</string>
+    <string name="campos_incompletos">Complete todos los campos</string>
+    <string name="paquete_guardado">Paquete guardado</string>
+    <string name="marcado_entregado">Paquete marcado como entregado</string>
+    <string name="todos_marcados">Todos marcados como entregados</string>
+    
+    <!-- Zonas -->
+    <string-array name="zonas_array">
+        <item>Ruta 12</item>
+        <item>Cañada Quiroz</item>
+        <item>San Cayetano</item>
+        <item>Riachuelo</item>
+        <item>Sombrero</item>
+        <item>Centro</item>
+        <item>Norte</item>
+        <item>Sur</item>
+        <item>Este</item>
+        <item>Oeste</item>
+    </string-array>
+</resources>
